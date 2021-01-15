@@ -4,6 +4,12 @@ div{
     color: yellow;
 }
 
+#char{
+    background-color: black;
+    text-align: center;
+    color: orange;
+}
+
 body{
     background-color: violet;
 }
