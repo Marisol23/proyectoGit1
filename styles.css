@@ -21,6 +21,12 @@ div{
     color: burlywood;
 }
 
+#bulbasaur{
+    background-color: black;
+    text-align: center;
+    color: green;
+}
+
 body{
     background-color: blue;
 }
